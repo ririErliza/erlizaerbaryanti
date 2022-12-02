@@ -9,8 +9,7 @@ Originally from Indonesia, graduated from Metallurgy & Materials Engineering and
 
 <h3 align="left">Connect with me:</h3>
 
-erliza.erb@gmail.com
-
+https://erliza-erbaryanti-portfolio.vercel.app/
 
 <a href="https://linkedin.com/in/erliza-erbaryanti89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erliza-erbaryanti89" height="30" width="40" /></a>
 
