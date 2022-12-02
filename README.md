@@ -1,6 +1,6 @@
 ### Hi 👋, I am Erliza
-#### MERN Stack Developer
-Originally from Indonesia, graduated from Metallurgy & Materials Engineering and now live in Germany and pursuing a career change into IT industry as a web developer. Went to a coding school Epicode Global (previously Strive School) where I was trained in HTML, CSS, JavaScript, Bootstrap, Git & GitHub, React JS, Node JS, Express JS, & Mongo DB.
+#### Front-End Developer
+Originally from Indonesia, graduated from Metallurgy & Materials Engineering and now live in Germany and pursuing a career change into IT industry as a web developer. Went to a coding school Epicode Global (previously Strive School) where I was trained in HTML, CSS, JavaScript, Bootstrap, Git & GitHub, React JS, Node JS, Express JS, & Mongo DB. I am focusing on Front-End development with basic understanding in Back-End Development and UI/UX Design.
 
 
 
